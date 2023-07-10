@@ -8,9 +8,7 @@
     color: rgb(237, 241, 241);
 }
 
-html {
-    scroll-behavior: smooth;
-}
+html {scroll-behavior: smooth;}
 
 
 .first {
